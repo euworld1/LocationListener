@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\EuWorld\\.android\\build-cache\\4d5efe09be9e4117708c530b518ed1da6fccd6a7\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\EuWorld\\.android\\build-cache\\4d5efe09be9e4117708c530b518ed1da6fccd6a7\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\EuWorld\\.android\\build-cache\\4d5efe09be9e4117708c530b518ed1da6fccd6a7\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\EuWorld\\.android\\build-cache\\4d5efe09be9e4117708c530b518ed1da6fccd6a7\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    }
+]

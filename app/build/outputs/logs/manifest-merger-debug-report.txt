@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:4:5-79
+	android:name
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:4:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:5:22-78
+application
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\EuWorld\.android\build-cache\b334fb4b43e7a690d293eebec52f50d507487cc3\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\4d5efe09be9e4117708c530b518ed1da6fccd6a7\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\EuWorld\.android\build-cache\8b374f8c8b2820de5e9b65e2bea7e115ff669638\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\EuWorld\.android\build-cache\9f9efc8219b9fa86271cfb27afc4cfc7239f0e27\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\EuWorld\.android\build-cache\bc23d38813b1fe511b1b9d75e0125ed5ef97ef95\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\EuWorld\.android\build-cache\11800a6334da58e50d2556ebb44868504f613f05\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\EuWorld\.android\build-cache\f336699c37a08526e959fad22184d12928bc4e7c\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\EuWorld\.android\build-cache\3d66fc07c25913fc02b179a4076a7fd7ce1d2cff\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\EuWorld\.android\build-cache\3202b8ce7b0c28a12d2aac1d0b388cda69740866\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\EuWorld\.android\build-cache\c452c6ccd43940669421b5e6e519621290ab8328\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\EuWorld\.android\build-cache\c2ae033d67d9516db5e593796d5c3c09d5ef5b0d\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:12:9-35
+	android:roundIcon
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:11:9-54
+	android:allowBackup
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:13:9-40
+activity#com.example.euworld.udemylocation3.MainActivity
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:14:9-23:20
+	android:label
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:16:13-45
+	android:theme
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:17:13-56
+	android:name
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:15:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:18:13-22:29
+action#android.intent.action.MAIN
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:19:17-69
+	android:name
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:19:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:21:17-77
+	android:name
+		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:21:27-74
+uses-sdk
+INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\EuWorld\.android\build-cache\b334fb4b43e7a690d293eebec52f50d507487cc3\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\4d5efe09be9e4117708c530b518ed1da6fccd6a7\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\EuWorld\.android\build-cache\8b374f8c8b2820de5e9b65e2bea7e115ff669638\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\EuWorld\.android\build-cache\9f9efc8219b9fa86271cfb27afc4cfc7239f0e27\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\e8d7e71329133fa1eba8e04b9392a31f4fb334f2\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.3.1] C:\Users\EuWorld\.android\build-cache\bc23d38813b1fe511b1b9d75e0125ed5ef97ef95\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\EuWorld\.android\build-cache\11800a6334da58e50d2556ebb44868504f613f05\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\EuWorld\.android\build-cache\f336699c37a08526e959fad22184d12928bc4e7c\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\EuWorld\.android\build-cache\3d66fc07c25913fc02b179a4076a7fd7ce1d2cff\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\EuWorld\.android\build-cache\3202b8ce7b0c28a12d2aac1d0b388cda69740866\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\EuWorld\.android\build-cache\c452c6ccd43940669421b5e6e519621290ab8328\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\EuWorld\.android\build-cache\c2ae033d67d9516db5e593796d5c3c09d5ef5b0d\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\4d5efe09be9e4117708c530b518ed1da6fccd6a7\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\EuWorld\.android\build-cache\8b374f8c8b2820de5e9b65e2bea7e115ff669638\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\EuWorld\.android\build-cache\9f9efc8219b9fa86271cfb27afc4cfc7239f0e27\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\e8d7e71329133fa1eba8e04b9392a31f4fb334f2\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\EuWorld\.android\build-cache\bc23d38813b1fe511b1b9d75e0125ed5ef97ef95\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\EuWorld\.android\build-cache\11800a6334da58e50d2556ebb44868504f613f05\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\EuWorld\.android\build-cache\f336699c37a08526e959fad22184d12928bc4e7c\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\EuWorld\.android\build-cache\3d66fc07c25913fc02b179a4076a7fd7ce1d2cff\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\EuWorld\.android\build-cache\3202b8ce7b0c28a12d2aac1d0b388cda69740866\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\EuWorld\.android\build-cache\c452c6ccd43940669421b5e6e519621290ab8328\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\EuWorld\.android\build-cache\c2ae033d67d9516db5e593796d5c3c09d5ef5b0d\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:26:9-47
