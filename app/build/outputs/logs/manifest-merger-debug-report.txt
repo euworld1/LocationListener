@@ -1,28 +1,28 @@
 -- Merging decision tree log ---
 manifest
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:2:1-26:12
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:2:1-26:12
 	package
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:3:5-49
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
 	android:versionName
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:2:11-69
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:2:11-69
 	android:versionCode
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.ACCESS_FINE_LOCATION
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:4:5-79
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:4:5-79
 	android:name
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:4:22-76
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:4:22-76
 uses-permission#android.permission.ACCESS_COARSE_LOCATION
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:5:5-81
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:5:5-81
 	android:name
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:5:22-78
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:5:22-78
 application
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:7:5-24:19
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:7:5-24:19
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\EuWorld\.android\build-cache\b334fb4b43e7a690d293eebec52f50d507487cc3\output\AndroidManifest.xml:9:5-20
 MERGED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\4d5efe09be9e4117708c530b518ed1da6fccd6a7\output\AndroidManifest.xml:29:5-20
@@ -36,37 +36,37 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\EuWorld\.andro
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\EuWorld\.android\build-cache\c452c6ccd43940669421b5e6e519621290ab8328\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\EuWorld\.android\build-cache\c2ae033d67d9516db5e593796d5c3c09d5ef5b0d\output\AndroidManifest.xml:29:5-20
 	android:label
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:10:9-41
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:10:9-41
 	android:supportsRtl
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:12:9-35
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:12:9-35
 	android:roundIcon
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:11:9-54
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:11:9-54
 	android:allowBackup
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:8:9-35
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:8:9-35
 	android:icon
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:9:9-43
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:9:9-43
 	android:theme
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:13:9-40
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:13:9-40
 activity#com.example.euworld.udemylocation3.MainActivity
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:14:9-23:20
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:14:9-23:20
 	android:label
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:16:13-45
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:16:13-45
 	android:theme
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:17:13-56
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:17:13-56
 	android:name
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:15:13-41
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:15:13-41
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:18:13-22:29
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:18:13-22:29
 action#android.intent.action.MAIN
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:19:17-69
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:19:17-69
 	android:name
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:19:25-66
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:19:25-66
 category#android.intent.category.LAUNCHER
-ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:21:17-77
+ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:21:17-77
 	android:name
-		ADDED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml:21:27-74
+		ADDED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml:21:27-74
 uses-sdk
-INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\EuWorld\.android\build-cache\b334fb4b43e7a690d293eebec52f50d507487cc3\output\AndroidManifest.xml:5:5-7:41
 MERGED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:21:5-23:62
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\4d5efe09be9e4117708c530b518ed1da6fccd6a7\output\AndroidManifest.xml:21:5-23:78
@@ -83,11 +83,11 @@ MERGED from [com.android.support:support-compat:25.3.1] C:\Users\EuWorld\.androi
 	tools:overrideLibrary
 		ADDED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
-		INJECTED from E:\downloads\Test3-master\UdemyLocation3\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
+		INJECTED from F:\AndroidWorkingApps\LocationListener\app\src\main\AndroidManifest.xml
 meta-data#android.support.VERSION
 ADDED from [com.android.support:design:25.3.1] C:\Users\EuWorld\.android\build-cache\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\output\AndroidManifest.xml:25:5-27:34
 MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\EuWorld\.android\build-cache\4d5efe09be9e4117708c530b518ed1da6fccd6a7\output\AndroidManifest.xml:25:5-27:34

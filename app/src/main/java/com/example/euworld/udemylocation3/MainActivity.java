@@ -59,7 +59,8 @@ public class MainActivity extends AppCompatActivity { //extends just means attac
                 t.append("");
                 t.append("\n" + location.getLatitude() +
                         " " + location.getLongitude() +
-                        " " + location.getAltitude());
+                        " " + location.getAltitude() +
+                        " " + location.getSpeed());
                 Log.i("Status", "\n" + location.getLatitude() +
                         " " + location.getLongitude() +
                         " " + location.getAltitude());

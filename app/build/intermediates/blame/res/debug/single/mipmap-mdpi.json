@@ -1,10 +1,18 @@
 [
     {
+        "merged": "F:\\AndroidWorkingApps\\LocationListener\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\AndroidWorkingApps\\LocationListener\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
         "merged": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
         "source": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
     },
     {
         "merged": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
         "source": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "F:\\AndroidWorkingApps\\LocationListener\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher_round.png",
+        "source": "F:\\AndroidWorkingApps\\LocationListener\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
     }
 ]

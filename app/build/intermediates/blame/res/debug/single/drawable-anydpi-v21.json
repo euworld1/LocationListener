@@ -1,5 +1,13 @@
 [
     {
+        "merged": "F:\\AndroidWorkingApps\\LocationListener\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\EuWorld\\.android\\build-cache\\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
+        "merged": "F:\\AndroidWorkingApps\\LocationListener\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\EuWorld\\.android\\build-cache\\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
         "merged": "E:\\downloads\\Test3-master\\UdemyLocation3\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
         "source": "C:\\Users\\EuWorld\\.android\\build-cache\\7bc8a6458dcbcb09639c22acfd9c28b0ce9fdcc6\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
     },
